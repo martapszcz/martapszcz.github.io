@@ -1,0 +1,37 @@
+body
+
+{
+    background-color:rgb(224, 208, 153);
+  
+    
+}
+
+p
+
+{
+color:rgb(0, 0, 0);
+font-weight:bold;
+font-size:13pt;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+img
+
+{
+   content:url(plaża.webp);
+    width: 400px;
+    height: 250px;
+}
+header
+{
+    text-align:center;
+    font-size: 30pt;
+}
+
+div
+
+{
+    max-width:400px;
+    margin:auto;
+}
